@@ -1,4 +1,4 @@
-package com.calculadora;
+package com.KevGarcia.calculadora;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

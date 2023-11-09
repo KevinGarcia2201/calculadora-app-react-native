@@ -1,4 +1,4 @@
-package com.calculadora.newarchitecture.modules;
+package com.KevGarcia.calculadora.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

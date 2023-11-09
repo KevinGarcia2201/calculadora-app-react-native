@@ -1,0 +1,21 @@
+Introduzca la contraseña del almacén de claves:
+12345678
+
+¿Cuáles son su nombre y su apellido?
+kevin garcia 
+
+¿Cuál es el nombre de su unidad de organización?
+cinoc
+
+¿Cuál es el nombre de su organización?
+ies cinoc 
+
+¿Cuál es el nombre de su ciudad o localidad?
+marquetalia
+
+¿Cuál es el nombre de su estado o provincia?
+caldas 
+
+¿Cuál es el código de país de dos letras de la unidad?
+CO
+
